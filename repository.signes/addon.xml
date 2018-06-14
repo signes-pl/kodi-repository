@@ -18,5 +18,8 @@
         <description lang="en_GB">Signes Kodi add-ons repository</description>
         <description lang="pl_PL">Zbiór wtyczek dla Kodi od Signes</description>
         <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
     </extension>
 </addon>
