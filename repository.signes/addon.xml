@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.signes" name="Signes repository" version="0.0.1" provider-name="signes">
+
+    <extension point="xbmc.addon.repository" name="Signes Kodi Add-ons Repository">
+        <info compressed="true">
+            https://raw.githubusercontent.com/signes-pl/kodi-plugin-video-zalukaj/master/plugin.video.zalukaj/addon.xml
+        </info>
+        <checksum>
+            https://raw.githubusercontent.com/signes-pl/kodi-plugin-video-zalukaj/master/plugin.video.zalukaj/addon.xml.md5
+        </checksum>
+        <datadir zip="true">
+            https://github.com/signes-pl/kodi-plugin-video-zalukaj/raw/master/dist/
+        </datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Kodi Add-ons repository</summary>
+        <summary lang="pl_PL">Repozytorium wtyczek dla Kodi</summary>
+        <description lang="en_GB">Signes Kodi add-ons repository</description>
+        <description lang="pl_PL">Zbiór wtyczek dla Kodi od Signes</description>
+        <platform>all</platform>
+    </extension>
+</addon>
