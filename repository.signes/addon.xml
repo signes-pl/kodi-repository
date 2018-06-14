@@ -18,6 +18,13 @@
         <description lang="en_GB">Signes Kodi add-ons repository</description>
         <description lang="pl_PL">Zbiór wtyczek dla Kodi od Signes</description>
         <platform>all</platform>
+        <news>
+            1.0.0 (2018.06.14)
+            - Available repository with one video plugin
+        </news>
+        <license>MIT</license>
+        <website>https://github.com/signes-pl/kodi-repository</website>
+        <source>https://github.com/signes-pl/kodi-repository/tree/master/repository.signes</source>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
