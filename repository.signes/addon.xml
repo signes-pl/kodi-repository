@@ -3,13 +3,13 @@
 
     <extension point="xbmc.addon.repository" name="Signes Kodi Add-ons Repository">
         <info compressed="true">
-            https://raw.githubusercontent.com/signes-pl/kodi-plugin-video-zalukaj/master/plugin.video.zalukaj/addon.xml
+            https://raw.githubusercontent.com/signes-pl/kodi-repository/master/addons/addons.xml
         </info>
         <checksum>
-            https://raw.githubusercontent.com/signes-pl/kodi-plugin-video-zalukaj/master/plugin.video.zalukaj/addon.xml.md5
+            https://raw.githubusercontent.com/signes-pl/kodi-repository/master/addons/addons.xml.md5
         </checksum>
         <datadir zip="true">
-            https://github.com/signes-pl/kodi-plugin-video-zalukaj/raw/master/dist/
+            https://raw.githubusercontent.com/signes-pl/kodi-repository/raw/master/addons/
         </datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
