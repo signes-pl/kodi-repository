@@ -9,7 +9,7 @@
             https://raw.githubusercontent.com/signes-pl/kodi-repository/master/addons/addons.xml.md5
         </checksum>
         <datadir zip="true">
-            https://raw.githubusercontent.com/signes-pl/kodi-repository/raw/master/addons/
+            https://github.com/signes-pl/kodi-repository/raw/master/addons/
         </datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
