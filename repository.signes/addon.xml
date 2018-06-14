@@ -15,8 +15,8 @@
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Kodi Add-ons repository</summary>
         <summary lang="pl_PL">Repozytorium wtyczek dla Kodi</summary>
-        <description lang="en_GB">Signes Kodi add-ons repository</description>
-        <description lang="pl_PL">Zbiór wtyczek dla Kodi od Signes</description>
+        <description lang="en_GB">This repository provided additional plugins for Kodi.</description>
+        <description lang="pl_PL">Zbiór dodatkowych wtyczek dla Kodi.</description>
         <platform>all</platform>
         <news>
             1.0.0 (2018.06.14)
