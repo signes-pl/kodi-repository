@@ -4,7 +4,7 @@
 
 | Service | Name | Latest version | Links |
 | --- | --- |:---:|:---:|
-| zalukaj | plugin.video.zalukaj | 0.0.3 | [changelog](https://github.com/signes-pl/kodi-plugin-video-zalukaj/blob/master/CHANGELOG.md) - [repository](https://github.com/signes-pl/kodi-plugin-video-zalukaj) |
+| zalukaj | plugin.video.zalukaj | 0.0.4 | [changelog](https://github.com/signes-pl/kodi-plugin-video-zalukaj) - [repository](https://github.com/signes-pl/kodi-plugin-video-zalukaj) |
 
 ## Installation
 
